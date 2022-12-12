@@ -16,4 +16,4 @@ Projeto construído no evento Next Level Week da Rocketseat.
 
 ## Contato
 
-diogoiron7@email.exemplo...
+diogodornelesds@gmail.com
